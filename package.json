@@ -1,0 +1,9 @@
+{
+  "name": "wss-relay",
+  "dependencies": {
+    "ws": "^8.0.0"
+  },
+  "scripts": {
+    "start": "node relay.js"
+  }
+}
